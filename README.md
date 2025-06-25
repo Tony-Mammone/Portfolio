@@ -81,7 +81,7 @@ Analyzed 88,000+ UFO sighting records to uncover temporal and geographic pattern
 - California emerged as top hotspot with 9 PM as peak reporting time
 - Created 9 interactive visualizations including heat maps and time series
 
-[View Project ppt](link) | [View Code](Project Code - UFO sightings - Antonio Mammone-1 (2).html)
+[View Project ppt](UFO Sightings Analysis Presentation - Antonio Mammone.pdf) | [View Code](Project Code - UFO sightings - Antonio Mammone-1 (2).html)
 
 ---
 
@@ -97,7 +97,7 @@ Explored how Pokemon design philosophy evolved across 9 generations through heig
 - Revealed significant height variations between generations
 - Generation 1 averaged 1.2m, showing design evolution over time
 
-[View Project](link) | [View Code](link)
+[View Project](link) 
 
 ---
 
