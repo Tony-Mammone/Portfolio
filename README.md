@@ -53,22 +53,6 @@ I'm passionate about uncovering insights from data and creating visualizations t
 
 ## Projects
 
-### 🌡️ [Weather Evaporation Modelling](link-to-project)
-**Technologies:** R, Statistical Modelling, Data Visualization  
-*Academic Project for Melbourne Water Corporation*
-
-Developed a predictive model to forecast daily evaporation rates for water resource management.
-
-**Key Achievements:**
-- Built multivariate regression model achieving R² of 0.602
-- Performed comprehensive EDA revealing seasonal patterns
-- Created stakeholder-ready visualizations and reports
-- Delivered actionable insights for water management strategies
-
-[📄 View Report](MWC Case Study - Antonio Paul Mammone (1).pdf) | [View Code](Case Study - a1798933 (1).R)
-
----
-
 ### 🛸 [UFO Sightings Analysis](link-to-project)
 **Technologies:** Python, Pandas, Matplotlib, Seaborn  
 *Personal Project*
@@ -82,6 +66,22 @@ Analyzed 88,000+ UFO sighting records to uncover temporal and geographic pattern
 - Created 9 interactive visualizations including heat maps and time series
 
 [View Project ppt](UFO Sightings Analysis Presentation - Antonio Mammone.pdf) | [View Code](Project Code - UFO sightings - Antonio Mammone-1 (2).html)
+
+---
+
+### 🌡️ [Weather Evaporation Modelling](link-to-project)
+**Technologies:** R, Statistical Modelling, Data Visualization  
+*Academic Project for Melbourne Water Corporation*
+
+Developed a predictive model to forecast daily evaporation rates for water resource management.
+
+**Key Achievements:**
+- Built multivariate regression model achieving R² of 0.602
+- Performed comprehensive EDA revealing seasonal patterns
+- Created stakeholder-ready visualizations and reports
+- Delivered actionable insights for water management strategies
+
+[📄 View Report](MWC Case Study - Antonio Paul Mammone (1).pdf) | [View Code](Case Study - a1798933 (1).R)
 
 ---
 
