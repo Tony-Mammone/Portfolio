@@ -53,7 +53,7 @@ I'm passionate about uncovering insights from data and creating visualizations t
 
 ## Projects
 
-### 🛸 [UFO Sightings Analysis]
+### 🛸 UFO Sightings Analysis
 **Technologies:** Python, Pandas, Matplotlib, Seaborn  
 *Personal Project*
 
@@ -69,7 +69,7 @@ Analyzed 88,000+ UFO sighting records to uncover temporal and geographic pattern
 
 ---
 
-### 🌡️ [Weather Evaporation Modelling](link-to-project)
+### 🌡️ Weather Evaporation Modelling
 **Technologies:** R, Statistical Modelling, Data Visualization  
 *Academic Project for Melbourne Water Corporation*
 
@@ -85,7 +85,7 @@ Developed a predictive model to forecast daily evaporation rates for water resou
 
 ---
 
-### 🎮 [Pokemon Generational Height Analysis](link-to-project)
+### 🎮 Pokemon Generationa Height Analysis
 **Technologies:** Python, Pandas, Data Cleaning, Statistical Analysis  
 *Personal Project*
 
@@ -101,7 +101,7 @@ Explored how Pokemon design philosophy evolved across 9 generations through heig
 
 ---
 
-### 📊 [Course Migration Blocker Tracking](link-to-project)
+### 📊 Course Migration Blocker Tracking
 **Technologies:** Excel, VBA, Data Analysis  
 *University of Adelaide - Work Initiative*
 
