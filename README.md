@@ -53,7 +53,7 @@ I'm passionate about uncovering insights from data and creating visualizations t
 
 ## Projects
 
-### 🛸 [UFO Sightings Analysis](link-to-project)
+### 🛸 [UFO Sightings Analysis]
 **Technologies:** Python, Pandas, Matplotlib, Seaborn  
 *Personal Project*
 
