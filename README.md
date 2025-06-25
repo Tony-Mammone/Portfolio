@@ -65,7 +65,7 @@ Developed a predictive model to forecast daily evaporation rates for water resou
 - Created stakeholder-ready visualizations and reports
 - Delivered actionable insights for water management strategies
 
-[View Project](link) | [View Code](link)
+[📄 View Report](MWC Case Study - Antonio Paul Mammone (1).pdf) | [View Code](Case Study - a1798933 (1).R)
 
 ---
 
@@ -81,7 +81,7 @@ Analyzed 88,000+ UFO sighting records to uncover temporal and geographic pattern
 - California emerged as top hotspot with 9 PM as peak reporting time
 - Created 9 interactive visualizations including heat maps and time series
 
-[View Project](link) | [View Code](link)
+[View Project ppt](link) | [View Code](Project Code - UFO sightings - Antonio Mammone-1 (2).html)
 
 ---
 
