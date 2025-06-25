@@ -140,7 +140,9 @@ Developed tracking system to monitor and analyze migration blockers during unive
 ---
 
 ## Currently Learning
+- 🧠 Deep Learning with TensorFlow
 - 📊 Advanced Statistical Modeling
+- ☁️ Cloud Computing (AWS/Azure)
 - 📈 Business Intelligence Tools (Tableau, Power BI)
 
 ---
