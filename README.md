@@ -97,7 +97,7 @@ Explored how Pokemon design philosophy evolved across 9 generations through heig
 - Revealed significant height variations between generations
 - Generation 1 averaged 1.2m, showing design evolution over time
 
-[View Project](link) 
+[View Project](Assessment3 - Pkmn Height Project.html) 
 
 ---
 
